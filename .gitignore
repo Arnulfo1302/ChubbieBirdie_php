@@ -1,2 +1,5 @@
 /src/
 /build/admin/content/content.php
+package.json
+package-lock.json
+gulpfole.js
